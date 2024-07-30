@@ -1,6 +1,6 @@
 # nl
 
-An object-oriented programming language taking C as a base (this isn't made in C btw)
+Un lenguaje de programacion orientado a objetos basado en C (no esta hecho en C ni es una copia)
 
 ---
 
@@ -8,14 +8,14 @@ An object-oriented programming language taking C as a base (this isn't made in C
 
 ---
 
-## What's the purpose of this?
-This was made with the purpose of making an easy programming language but also making a complete one, you could say i tried making C easier to read and write
+## ¿Qué propósito tiene ésto?
+Esto esta hecho con el proposito de hacer un lenguaje facil de aprender y leer, pero a la vez un lenguaje completo, se podria decir que estoy haciendo C mas facil.
 
-## For what is this being used?
-Many things, like my apps, games and general things
+## ¿En que uso esto?
+Muchas cosas, como mis apps, algunos juegos, etc.
 
-## Is this language console-only?
-No, with the time i will make it compatible with Qt5, SDL2, and many more GUI builders
+## ¿Funcionara solo en una terminal?
+No, con el tiempo lo hare compatible con varias librerias de GUI como SDL2 o Qt5 (obvio versiones modificadas)
 
-### Arrival:
- 2026 (by now the source is public for you to help me fix things of this language :))
+### Llega en:
+2026 (El codigo fuente es publico para que me puedan ayudar con bugs o problemas con esto :))
