@@ -2,6 +2,11 @@
 
 An object-oriented programming language taking C as a base (this isn't made in C btw)
 
+---
+
+[Español/Spanish](Info/Spanish.md)
+
+---
 
 ## What's the purpose of this?
 This was made with the purpose of making an easy programming language but also making a complete one, you could say i tried making C easier to read and write
