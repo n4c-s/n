@@ -4,7 +4,7 @@ An object-oriented programming language taking C as a base (this isn't made in C
 
 ---
 
-[Ingles/English](./README.md)
+[Ingles/English](../README.md)
 
 ---
 
